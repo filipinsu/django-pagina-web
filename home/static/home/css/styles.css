@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: #f7b267;
+}
+header h1{
+    font-family: 'Montserrat';
+    font-size: 36px;
+    color: #f25c54;
+}
+
+.nav-list{
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.nav-list li a{
+    text-decoration: none;
+    color: #f25c54;
+    font-family: 'Montserrat';
+    font-size: 24px;
+}
