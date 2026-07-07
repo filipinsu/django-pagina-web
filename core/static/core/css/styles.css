@@ -42,8 +42,8 @@ header h1{
 
 .child-container{
     display: flex;
-    width: 42rem;
-    height: 32rem;
+    width: 64rem;
+    height: 48rem;
     margin: 16px;
     border-radius: 24px;
     background: #ffffff; 
